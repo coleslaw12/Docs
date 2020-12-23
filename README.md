@@ -13,7 +13,7 @@ Modmail is the main bot and focus of the server! This bot is the bot that most u
 
 Threads:
   Threads are the main focus of the server! Each thread will be created when a user DMs the bot. The sent message will look like this: 
-  [ThreadImage1](https://lh3.googleusercontent.com/3oy-z733_guaTy3RNphYPKDhv5qY3696Ts-16LiQ99uR_9eVxwSjn6MeRM0NMGCWFJAm2sxuNNVs3IfhuRZHPf_L-_-fFDGM-QVlIYzSKVHeq7WNBFi6P8Hw4iCkvbRpvziEh7HR)
+  ![ThreadImage1](https://lh3.googleusercontent.com/3oy-z733_guaTy3RNphYPKDhv5qY3696Ts-16LiQ99uR_9eVxwSjn6MeRM0NMGCWFJAm2sxuNNVs3IfhuRZHPf_L-_-fFDGM-QVlIYzSKVHeq7WNBFi6P8Hw4iCkvbRpvziEh7HR)
   
   The thread will be created and a message will be sent to the staff team. The user will get a response with the following in their DMs.
   Threads in the server will create a new discord channel in your main category ID. It will look like this:
